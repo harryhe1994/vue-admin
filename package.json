@@ -2,7 +2,7 @@
   "name": "vueadmin",
   "version": "1.0.5",
   "description": "vue admin project",
-  "author": "harry he <harry.r.he@oocl.comp>",
+  "author": "harry he <harry.r.he@qq.comp>",
   "license": "MIT",
   "scripts": {
     "dev": "node build/dev-server.js",
